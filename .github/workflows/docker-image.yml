@@ -33,7 +33,7 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push fer6803/docker-graphql:0.0.2 .        
+        docker push fer6803/docker-graphql:0.0.2        
 
         
     
